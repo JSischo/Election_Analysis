@@ -11,7 +11,7 @@ A Colorado Board of Elections empolyee has given you the following tasks to comp
 
 ## Resources
 - Data Source: election_results.csv
-= Software: Python 3.7.6, Visual Studio Code, 1.52.1
+- Software: Python 3.7.6, Visual Studio Code, 1.52.1
 
 ## Audit Summary
 The analysis of the election show that:
