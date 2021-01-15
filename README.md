@@ -22,7 +22,7 @@ The analysis of the election show that:
   - Denver county: **306,055** voters for ***82.8%*** of the total votes cast.
   - Arapahoe county: **24,801** voters for ***6.7%*** of the total votes cast.
 
-  > The county with the largest number of votes was: ***Denver***
+    > The county with the largest number of votes was: ***Denver***
   
 - The candidates were:
   - **Charles Casper Stockham**
