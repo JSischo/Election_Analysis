@@ -13,7 +13,7 @@ A Colorado Board of Elections empolyee has given you the following tasks to comp
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code, 1.52.1
 
-## Audit Summary
+## Election-Audit Results
 The analysis of the election show that:
 - There were ***369,711*** votes cast in the election.
 
@@ -40,6 +40,8 @@ The analysis of the election show that:
 > The winner of the election was:
   >**Diane DeGette**, who received ***73.8%*** of the vote and **272,892** votes.
   
-  
-## Challenge Overview
-## Challenge Summary
+## Election-Audit Summary
+
+> With a few minor changes to the code script for this election audit, it could be used for audits at any level: local, state and national.
+> - At a national level we could make and adjustment and audit results by not only county, but also be state by adding a couple of lines in the tally 'for' loop.
+> - The script could also be modified for use in primary elections between candidates in two or more political parties by duplicating the 'for' loops to find the winner for each political party and returning those results.
